@@ -1,1 +1,1 @@
-# mini_proj_python
+This repository contains mini projects given from College
